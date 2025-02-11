@@ -8,15 +8,13 @@
 
 ## Prerequisites
 
-- Node.js (Latest LTS version recommended)
-- npm or yarn
+- Node.js
+- npm
 
 ## Installation
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ## Available Scripts
@@ -37,3 +35,7 @@ The project uses TypeScript and includes configurations for:
 ## Version
 
 Current version: 0.1.0
+
+## Demo Image
+
+<img src="./images/rss-me-dragon.png" alt="Demo image of rss feed app" width="600">
