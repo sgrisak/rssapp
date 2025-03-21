@@ -2,6 +2,7 @@
 
 ## Technologies used
 
+- Built with Cursor
 - React with Next.js 14 App Router
 - TailwindCSS
 - Firebase Auth, Storage, and Database
@@ -31,6 +32,10 @@ The project uses TypeScript and includes configurations for:
 - ESLint
 - Tailwind CSS with Typography plugin
 - Next.js-specific optimizations
+
+## Notes
+A quick way to find RSS feeds to add to the app for testing:
+(https://castos.com/tools/find-podcast-rss-feed/)
 
 ## Version
 
